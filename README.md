@@ -4,7 +4,7 @@
 
 ### What should an AI carry forward?
 
-Lopeloop is a small independent research lab exploring memory for AI agents:
+I'm independent research exploring memory for AI agents:
 how experience is preserved, how knowledge changes, and when the past should
 influence the next decision.
 
