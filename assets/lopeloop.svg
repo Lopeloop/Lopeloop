@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">Lopeloop</title>
+  <desc id="desc">Independent research on memory for AI agents. A quiet dark banner with a looping line and connected points.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#253039" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="280" rx="16" fill="#10171d"/>
+  <rect x="800" y="0" width="480" height="280" fill="url(#grid)" opacity="0.6"/>
+  <rect x="64" y="48" width="7" height="7" rx="2" fill="#c4e8b5"/>
+  <text x="84" y="55" fill="#a4b3bc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">INDEPENDENT RESEARCH LAB</text>
+  <text x="60" y="140" fill="#f0f4ee" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="62" letter-spacing="-3">Lopeloop</text>
+  <text x="64" y="185" fill="#b7c5ce" font-family="system-ui, -apple-system, sans-serif" font-size="22">Memory, experience, and what carries forward.</text>
+  <text x="64" y="235" fill="#798e9a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">AGENT MEMORY / EXPERIMENTAL TOOLS / OPEN QUESTIONS</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M846 140H922C962 140 962 64 1012 64C1062 64 1062 216 1112 216C1162 216 1162 140 1216 140" stroke="#536b78" stroke-width="2"/>
+    <path d="M846 140H922C962 140 962 216 1012 216C1062 216 1062 64 1112 64C1162 64 1162 140 1216 140" stroke="#c4e8b5" stroke-width="3"/>
+    <circle cx="922" cy="140" r="7" fill="#10171d" stroke="#c4e8b5" stroke-width="2"/>
+    <circle cx="1062" cy="140" r="6" fill="#10171d" stroke="#f0c989" stroke-width="2"/>
+    <circle cx="1182" cy="140" r="7" fill="#10171d" stroke="#c4e8b5" stroke-width="2"/>
+  </g>
+</svg>
