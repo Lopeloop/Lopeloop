@@ -9,7 +9,7 @@
   <rect width="1280" height="280" rx="16" fill="#10171d"/>
   <rect x="800" y="0" width="480" height="280" fill="url(#grid)" opacity="0.6"/>
   <rect x="64" y="48" width="7" height="7" rx="2" fill="#c4e8b5"/>
-  <text x="84" y="55" fill="#a4b3bc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">INDEPENDENT RESEARCH LAB</text>
+  <text x="84" y="55" fill="#a4b3bc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">INDEPENDENT RESEARCH</text>
   <text x="60" y="140" fill="#f0f4ee" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="62" letter-spacing="-3">Lopeloop</text>
   <text x="64" y="185" fill="#b7c5ce" font-family="system-ui, -apple-system, sans-serif" font-size="22">Memory, experience, and what carries forward.</text>
   <text x="64" y="235" fill="#798e9a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">AGENT MEMORY / EXPERIMENTAL TOOLS / OPEN QUESTIONS</text>
